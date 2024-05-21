@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1716283327 "pset3.tex" "pset3.pdf" "pset3" 1716283327
+["pdflatex"] 1716329750 "pset3.tex" "pset3.pdf" "pset3" 1716329751
   "/etc/texmf/web2c/texmf.cnf" 1716269493 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1246382020 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -199,8 +199,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1716274098 128028 f533b797fba58d231669ea19e894e23e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1716274101 1405650 63bdf4cb8c8807ce9ca96f00be0fbf27 ""
-  "pset3.aux" 1716283327 67 d1f1d04f1f825549314e4f02ae5806bb "pdflatex"
-  "pset3.tex" 1716283325 3948 e61afe943efb1d3ca4bde1b57734f3ee ""
+  "pset3.aux" 1716329751 67 1ef9204e575c5392681f20eea05cdd6d "pdflatex"
+  "pset3.tex" 1716329750 5578 806af880103e0c3e2abea5c308a919f9 ""
   (generated)
   "pset3.aux"
   "pset3.log"
